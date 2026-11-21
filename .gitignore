@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+# Portable interpreters, downloaded models, package caches and temporary files
+# are rebuilt locally by bootstrap/start scripts and must never enter Git.
+runtime/*
+!runtime/.gitkeep
+storage/
+database/*.db
+*.wav

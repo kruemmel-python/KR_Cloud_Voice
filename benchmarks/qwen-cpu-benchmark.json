@@ -1,0 +1,8 @@
+{
+  "model_id": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+  "model_load_seconds": 23.338,
+  "generation_seconds": 48.956,
+  "audio_seconds": 7.76,
+  "realtime_factor": 6.309,
+  "wav": "H:\\KR_Cloud_Voice\\benchmarks\\qwen-cpu-benchmark.wav"
+}
